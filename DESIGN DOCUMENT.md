@@ -104,8 +104,8 @@ O MVP segue uma arquitectura de três camadas:
 | Camada | Tecnologia |
 |--------|-----------|
 | Frontend | React / React Native |
-| Backend | Node.js + Express (ou NestJS) |
-| Base de Dados | PostgreSQL |
+| Backend | fastapi |
+| Base de Dados | sqlite e PostgreSQL |
 | Autenticação | JWT + bcrypt |
 | Notificações | Firebase Cloud Messaging (FCM) |
 | Hosting | AWS / GCP / Railway |
